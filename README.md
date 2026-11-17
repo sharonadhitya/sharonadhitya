@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./assets/banner.png"
+    src="./assets/Do Nothing Over Misty Mountains.png"
     width="100%"
     alt="DO NOTHING — Sharon Adhitya"
   />
