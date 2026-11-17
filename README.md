@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/Do Nothing Over Misty Mountains.png" width="180" height="180" alt="Sharon Adhitya">
+</p>
 
 <h1 align="center">Hi, I'm Sharon Adhitya 👋</h1>
 
