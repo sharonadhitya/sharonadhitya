@@ -2,45 +2,29 @@
   <img src="assets/Do Nothing Over Misty Mountains.png" width="100%" alt="Sharon Adhitya">
 </p>
 
-<h1 align="center">Hi, I'm Sharon Adhitya 👋</h1>
+<h1 align="center">Hi, I'm Sharon Adhitya !!</h1>
 
 <h3 align="center">
-  Software Engineer | AI/ML Engineer | Agentic AI
+  Software Engineer | AI/ML Engineer | Agentic AI | Open Source Contributor
 </h3>
 
 <p align="center">
-  Building intelligent applications, AI agents, and scalable software.
+  <i>
+    Naturally curious and always exploring. I enjoy experimenting
+    with ideas, solving problems, building things, and learning new
+    technologies. I believe in keeping things simple, embracing
+    challenges, and letting curiosity lead the way.
+  </i>
 </p>
 
----
+<h2 align="center">📊 GitHub Statistics</h2>
 
-### 👨‍💻 About Me
-
-- Software Engineer working on AI/ML and Agentic AI.
-- Interested in building AI-powered applications and intelligent workflows.
-- Exploring LLMs, RAG, LangGraph, and multi-agent systems.
-- Contributing to open-source projects.
-- Always learning, building, and experimenting with new technologies.
-
-### 🛠️ Tech Stack
-
-**Languages**
-Python · JavaScript · TypeScript · C++
-
-**Frontend**
-React · Next.js · HTML · CSS · Tailwind CSS
-
-**Backend**
-Django · FastAPI · Node.js
-
-**AI / ML**
-LLMs · RAG · LangGraph · Vector Databases
-
-**Databases**
-PostgreSQL · MongoDB
-
-**Tools**
-Git · GitHub · Docker · Linux
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sharonadhitya&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+</p>
 
 ### 🚀 Featured Projects
 
@@ -56,11 +40,14 @@ Git · GitHub · Docker · Linux
 - Production-ready RAG systems
 - System Design
 
-### 🤝 Connect With Me
+<h2 align="center">🐍 Contribution Graph</h2>
 
-- GitHub: https://github.com/sharonadhitya
-
----
+<p align="center">
+  <img
+    src="https://github.com/sharonadhitya/sharonadhitya/blob/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</p>
 
 <p align="center">
   <i>Building, learning, and contributing every day.</i>
